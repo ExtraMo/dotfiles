@@ -71,3 +71,9 @@
 [submodule "_zgen"]
 	path = _zgen
 	url = https://github.com/tarjoilija/zgen.git
+[submodule "powerline"]
+	path = powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "_fonts/powerline-fonts"]
+	path = _fonts/powerline-fonts
+	url = http://github.com/Lokaltog/powerline-fonts
